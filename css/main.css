@@ -4,11 +4,34 @@
    Author's custom styles
    ========================================================================== */
 
+.header {
+    text-align: center;
+    font-style: italic;
+    background-color: #FFFF00;
+    margin: 0;
+    padding: 10px 0px 10px 0;
+    
+}
+.nav {
+    display: table-cell;
+    width: 20%;
+    margin-right: 2%;
+  
+}
+main{
+    display: table-cell;
+    border-left: 2px solid  blue;
+    padding-left: 3%;
+}
 
+mid{
+    text-align: center;
+}
 
-
-
-
+.secondarticle{
+    width: 90%;
+    padding-left: 10%;
+}
 
 
 
